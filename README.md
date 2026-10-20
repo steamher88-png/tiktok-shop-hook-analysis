@@ -41,5 +41,5 @@ Python, pandas, DuckDB / SQL, SciPy
 
 ## Файлы проекта
 
-[PDF-отчёт](report.pdf)
-[Python-скрипт](analysis.py)
+[PDF-отчёт](Анализ эффективности эмоциональных и рациональных хуков в TikTok Sho1.pdf)
+[Python-скрипт](PythonApplication2.py)
